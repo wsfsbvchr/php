@@ -1,0 +1,6 @@
+# ignores
+.git
+# ignore database credentials
+db.php
+# ignore backups
+*~
